@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/7AZSqpi+SsZR3MHB3VGWyiRfDZ9Yo2ua3rK9VvF7Co=",
+  "Source": "JwtApp.Back",
+  "BasePath": "_content/JwtApp.Back",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
